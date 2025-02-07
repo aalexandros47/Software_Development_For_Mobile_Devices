@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "au.edu.swin.sdmd.myapp-mergeDebugResources-26:/values-vi-rVN/values-vi-rVN.xml",
+            "map": [
+                {
+                    "source": "/Users/ag47/Documents/Swinburne Units Docs/COS30017-main/core1-103488117/app/src/main/res/values-vi-rVN/strings.xml",
+                    "from": {
+                        "startLines": "2,4,6,3,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,154,238,108,196",
+                        "endColumns": "52,41,43,45,41",
+                        "endOffsets": "103,191,277,149,233"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,150,194,240",
+                        "endColumns": "52,41,43,45,41",
+                        "endOffsets": "103,145,189,235,277"
+                    }
+                }
+            ]
+        }
+    ]
+}
